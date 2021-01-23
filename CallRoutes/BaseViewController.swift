@@ -6,7 +6,6 @@
 //
 
 import UIKit
-import SnapKit
 
 class BaseViewController: UIViewController {
     private var applyTraitCollection: ((UITraitCollection?) -> Void)?
